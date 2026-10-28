@@ -1,0 +1,246 @@
+{
+  "student_id": "unknown_student",
+  "student_name": null,
+  "major": "Computer Science   Program BS Computer Science   College Science & Health",
+  "program": "BS Computer Science",
+  "gpa": "3.327",
+  "saved_at": "2026-04-27T03:54:49.118887",
+  "current_classes": [
+    {
+      "type": "CURRENT",
+      "section": {
+        "modality": "IN_PERSON",
+        "credits": {
+          "value": 4
+        },
+        "meeting": {
+          "end": "1640",
+          "start": "1400",
+          "location": "HSCIE",
+          "room": "3013",
+          "days": {
+            "monday": false,
+            "wednesday": true,
+            "thursday": false,
+            "friday": false,
+            "tuesday": false
+          }
+        },
+        "title": "GENERAL PHYSICS I",
+        "term": "Spring 2026"
+      },
+      "crn": "13849",
+      "course_code": "PHYS 2600"
+    },
+    {
+      "type": "CURRENT",
+      "section": {
+        "term": "Spring 2026",
+        "title": "COMPUTER AND ASSEMBLER LANGUAGE",
+        "credits": {
+          "value": 3
+        },
+        "modality": "IN_PERSON",
+        "meeting": {
+          "start": "1830",
+          "days": {
+            "monday": false,
+            "tuesday": true,
+            "wednesday": false,
+            "thursday": true,
+            "friday": false
+          },
+          "location": "HSCIE",
+          "end": "1945",
+          "room": "5019"
+        }
+      },
+      "crn": "14124",
+      "course_code": "CS 2800"
+    },
+    {
+      "type": "CURRENT",
+      "section": {
+        "modality": "IN_PERSON",
+        "title": "DATA STRUCTURE",
+        "credits": {
+          "value": 4
+        },
+        "term": "Spring 2026",
+        "meeting": {
+          "days": {
+            "thursday": true,
+            "monday": false,
+            "tuesday": true,
+            "friday": false,
+            "wednesday": false
+          },
+          "location": "HSCIE",
+          "room": "5020",
+          "end": "1540",
+          "start": "1400"
+        }
+      },
+      "crn": "14225",
+      "course_code": "CS 3420"
+    },
+    {
+      "type": "CURRENT",
+      "section": {
+        "meeting": {
+          "end": "0002",
+          "days": {
+            "monday": false,
+            "friday": false,
+            "wednesday": false,
+            "tuesday": false,
+            "thursday": false
+          },
+          "room": "ASYN",
+          "start": "0001",
+          "location": "ONLINE"
+        },
+        "title": "DIVERSITY AND EQUITY IN SCHOOLS",
+        "modality": "ONLINE_ASYNC",
+        "credits": {
+          "value": 3
+        },
+        "term": "Spring 2026"
+      },
+      "crn": "14453",
+      "course_code": "ANTH 2020"
+    }
+  ],
+  "next_semester_classes": [
+    {
+      "crn": "40137",
+      "type": "MAJOR",
+      "section": {
+        "modality": "IN_PERSON",
+        "title": "COMPUTER SCIENCE II",
+        "term": "Fall 2026",
+        "credits": {
+          "value": 4
+        },
+        "meeting": {
+          "start": "1000",
+          "days": {
+            "monday": true,
+            "friday": false,
+            "wednesday": true,
+            "tuesday": false,
+            "thursday": false
+          },
+          "location": "HSCIE",
+          "room": "5040",
+          "end": "1140"
+        }
+      },
+      "course_code": "CS 2400"
+    },
+    {
+      "crn": "42068",
+      "type": "MAJOR",
+      "section": {
+        "modality": "IN_PERSON",
+        "credits": {
+          "value": 3
+        },
+        "meeting": {
+          "start": "1400",
+          "room": "5000",
+          "days": {
+            "wednesday": false,
+            "tuesday": true,
+            "friday": false,
+            "monday": false,
+            "thursday": false
+          },
+          "end": "1640",
+          "location": "HSCIE"
+        },
+        "title": "SOFTWARE ENGINEERING",
+        "term": "Fall 2026"
+      },
+      "course_code": "CS 3500"
+    },
+    {
+      "crn": "41599",
+      "type": "MAJOR",
+      "section": {
+        "modality": "IN_PERSON",
+        "title": "GENERAL PHYSICS II",
+        "meeting": {
+          "days": {
+            "tuesday": false,
+            "friday": false,
+            "wednesday": true,
+            "thursday": false,
+            "monday": false
+          },
+          "room": "3009",
+          "start": "1400",
+          "end": "1640",
+          "location": "HSCIE"
+        },
+        "term": "Fall 2026",
+        "credits": {
+          "value": 4
+        }
+      },
+      "course_code": "PHYS 2610"
+    },
+    {
+      "crn": "40725",
+      "type": "MAJOR",
+      "section": {
+        "credits": {
+          "value": 3
+        },
+        "term": "Fall 2026",
+        "meeting": {
+          "end": "1940",
+          "days": {
+            "thursday": false,
+            "friday": false,
+            "wednesday": false,
+            "tuesday": true,
+            "monday": false
+          },
+          "location": "HSCIE",
+          "room": "5020",
+          "start": "1700"
+        },
+        "modality": "IN_PERSON",
+        "title": " FUNDAMENTALS OF NETWORKING AND INFORMATION SECURITY"
+      },
+      "course_code": "CS 3380"
+    },
+    {
+      "crn": "40553",
+      "type": "MAJOR",
+      "section": {
+        "modality": "IN_PERSON",
+        "credits": {
+          "value": 3
+        },
+        "meeting": {
+          "start": "1800",
+          "days": {
+            "thursday": false,
+            "tuesday": false,
+            "monday": false,
+            "friday": false,
+            "wednesday": true
+          },
+          "location": "HSCIE",
+          "room": "5020",
+          "end": "2040"
+        },
+        "title": "COMPUTER SCIENCE SEMINAR",
+        "term": "Fall 2026"
+      },
+      "course_code": "CS 4800"
+    }
+  ]
+}
